@@ -6,4 +6,5 @@ int main(){
     cin>>a>>b;
     SUM=a+b;
     cout<<SUM;
+    return 0;
 }
